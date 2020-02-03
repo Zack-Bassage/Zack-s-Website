@@ -1,0 +1,25 @@
+body {
+    /* colors are from light green palette */
+    background: #f4ffd8;
+    font-family: "Noto Serif", Serif;
+}
+/* Each linked page has its own color scheme */
+
+/* I don't understand which order the CSS should follow */
+#headingGroup span {
+    color: #ffcce6;
+    font-weight: 700;
+    font-size: 2rem;
+}
+#headingGroup h2:hover {
+    color: #b1d8b9;
+}
+#headingGroup {
+    color: #d7ccff;
+}
+/* below is where I attempted flipping color using CSS */
+/* #headingGroup .lines:hover {
+    color: #d7ccff; */
+}
+
+
